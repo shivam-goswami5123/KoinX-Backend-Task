@@ -63,11 +63,11 @@ Fetch the latest price, market capitalization, and 24-hour price change for a sp
 
 ```json
 
-`{
+{
   "price": 40000,
   "marketCap": 800000000,
   "24hChange": 3.4
-}` 
+}
 ```
 
 #### **Explanation:**
@@ -106,9 +106,9 @@ Calculate the standard deviation of the price for the last 100 records stored fo
 
 ```json
 
-`{
+{
   "deviation": 4082.48
-}` 
+}
 ```
 
 #### **Explanation:**
