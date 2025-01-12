@@ -31,7 +31,7 @@ KoinX-Backend-Task/
 
 The API is deployed and available at the following base URL:
 
-**`http://demo-ip-address/api`**
+**`http://13.127.86.162/api`**
 
 ----------
 
@@ -56,7 +56,7 @@ Fetch the latest price, market capitalization, and 24-hour price change for a sp
 #### **Example Request:**
 
 ```bash
-`GET http://demo-ip-address/api/stats?coin=bitcoin` 
+`GET http://13.127.86.162/api/stats?coin=bitcoin` 
 ```
 
 #### **Sample Response:**
@@ -99,7 +99,7 @@ Calculate the standard deviation of the price for the last 100 records stored fo
 #### **Example Request:**
 
 ```bash
-`GET http://demo-ip-address/api/deviation?coin=bitcoin` 
+`GET http://13.127.86.162/api/deviation?coin=bitcoin` 
 ```
 
 #### **Sample Response:**
